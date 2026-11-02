@@ -7,14 +7,13 @@
 
 int main(void)
 {
-  int numbers;
+int letters;
 
-for (numbers = 0; numbers <= 9; numbers++)
+for (letters = 'z'; letters >= 'a'; letters--)
 {
-putchar(numbers + '0');
+putchar(letters);
 }
 putchar('\n');
 
 return (0);
 }
-
