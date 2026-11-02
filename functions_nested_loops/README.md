@@ -16,3 +16,4 @@ Prototype: int _islower(int c);
 Returns 1 if c is lowercase
 Returns 0 otherwise
 - 4-isalpha.c:  a function that checks for alphabetic character.
+- 5-sign.c: a function that prints the sign of a number.
