@@ -1,6 +1,6 @@
-#include <stdio.h)
+#include <stdio.h>
 /**
- * main - Entry point
+ * main - Entry Point
  *
  * Return: Always 0 (Success)
  */
@@ -8,17 +8,16 @@
 int main(void)
 {
 int numbers;
-int letters;
-
 for (numbers = 0; numbers <= 9; numbers++)
 {
 putchar(numbers + '0');
-}
-for (letters = 'a'; letters <= 'f'; letters++)
+
+if (numbers != 9)
 {
-putchar(letters);
+putchar(',');
+putchar(' ');
+}
 }
 putchar('\n');
-
 return (0);
 }
