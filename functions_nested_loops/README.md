@@ -1,3 +1,4 @@
+
 README.md for functions_nested_loops
 - 0-putchar.c: a program that prints _putchar, followed by a new line.
 
@@ -19,4 +20,5 @@ Returns 0 otherwise
 - 5-sign.c: a function that prints the sign of a number.
 - 6-abs.ca function that computes the absolute value of an integer.
 - 7-print_last_digit.c: a function that prints the last digit of a number.
+- 8-24_hours.c: a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
