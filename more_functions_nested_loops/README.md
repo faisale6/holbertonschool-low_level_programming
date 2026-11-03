@@ -10,4 +10,4 @@ README.md for more_functions_nested_loops
 - 8-print_square.c:a function that prints a square, followed by a new line.
 - 9-fizz_buzz.c: a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 
-- 10-
+- 10-print_triangle.c: a function that prints a triangle, followed by a new line.
