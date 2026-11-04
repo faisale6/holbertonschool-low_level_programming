@@ -1,0 +1,9 @@
+*~
+\#*\#
+*.swp
+*.swo
+*.o
+*.out
+a.out
+size64
+/simple-calculator/calculator
