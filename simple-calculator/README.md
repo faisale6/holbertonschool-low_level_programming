@@ -5,3 +5,4 @@ README.md for simple-calculator
 - 3. Subraction: Impement subtraction.
 - 4. Multiplication: Implement multiplication.
 - 5. Division: Implement divison safely
+- 6. fixing the input when a user choice is a letter instead of a number

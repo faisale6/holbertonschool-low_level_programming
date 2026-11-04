@@ -22,11 +22,20 @@ printf("4) Divide\n");
 printf("0) Quit\n");
 printf("Choice: ");
 
-scanf("%d", &choice);
+ if (scanf("%d", &choice) != 1)
+   {
+     printf("Invalid character\n");
+
+     while (getchar() != '\n')
+       {
+       }
+     continue;
+   }
 if (choice < 0 || choice > 4)
 {
 printf("Invalid choice\n");
 }
+
  if (choice == 1)
    {
      printf("A: ");
