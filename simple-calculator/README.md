@@ -3,4 +3,5 @@ README.md for simple-calculator
 - 1. Menu Loop + Choice Validation - Repeats the menu until quit and reject invalid characters.
 - 2. Addition: Implementing addition end-to-end.
 - 3. Subraction: Impement subtraction.
-- 4.
+- 4. Multiplication: Implement multiplication.
+- 5.

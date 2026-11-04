@@ -45,6 +45,15 @@ printf("Invalid choice\n");
      result = a - b;
      printf("Result: %d\n", result);
    }
+ if (choice == 3)
+   {
+      printf("A: ");
+     scanf("%d", &a);
+     printf("B: ");
+     scanf("%d", &b);
+     result = a * b;
+     printf("Result: %d\n", result);
+   }
 }
 printf("Bye!\n");
 return (0);
