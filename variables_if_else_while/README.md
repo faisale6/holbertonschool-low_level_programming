@@ -47,4 +47,5 @@ You are not allowed to use any variable of type char
 
 - 100-print_comb3.c: a program that prints all possible different combinations of two digits.
 - 101-print_comb4.c: a program that prints all possible different combinations of three digits.
+- 102-print-print_comb5.c: a program that prints all possible combinations of two two-digit numbers.
 
