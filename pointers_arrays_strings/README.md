@@ -11,4 +11,4 @@ README.md file for pointers_arrays_strings
 - 8-print_array.c: a function that prints n elements of an array of integers, followed by a new line.
 - 9-strcpy.c: a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
--
+- 100-atoi.c: a function that convert a string to an integer.
