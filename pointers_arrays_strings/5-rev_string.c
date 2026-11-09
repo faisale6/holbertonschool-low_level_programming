@@ -14,9 +14,6 @@ while (s[length] != '\0')
 {
 length++;
 }
-temp = s[0];
-s[0] = s[length - 1];
-s[length - 1] = temp;
 
 while (i < length / 2)
 {
