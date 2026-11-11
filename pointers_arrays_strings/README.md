@@ -13,7 +13,7 @@ README.md file for pointers_arrays_strings
 
 - 100-atoi.c: a function that convert a string to an integer.
 
-
+------------------------------------------------------------------------------------------------
 - 0-strcat.c: a function that concatenates two strings.
 - 1-strncat.c: a function that concatenates two strings.
 - 2-strncpy.c: a function that copies a string.
@@ -22,3 +22,6 @@ README.md file for pointers_arrays_strings
 - 5-string_toupper.c: a function that changes all lowercase letters of a string to uppercase.
 - 6-cap_string.c: a function that capitalizes all words of a string.
 - 7-leet.c: a function that encodes a string into 1337.
+
+-------------------------------------------------------------------------------------------------
+0-memset.c - a function that fills memory with a constant byte.
