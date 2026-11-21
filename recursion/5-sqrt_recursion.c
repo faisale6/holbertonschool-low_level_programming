@@ -7,7 +7,7 @@
  *
  * Return: Natural square root or -1
  */
-static int sqrt_helper(int n, int i)
+ int sqrt_helper(int n, int i)
 {
 	if (i == n / i && n % i == 0)
 	{
